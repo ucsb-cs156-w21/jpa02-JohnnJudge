@@ -10,7 +10,7 @@ Repo:   https://github.com/ucsb-cs156-f20/jpa02-JohnnJudge
 On Heroku: https://jpa02-jjudge.herokuapp.com/
 
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-f20/jpa02-cgaucho
+On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-JohnnJudge
 
 
 # About this repo
